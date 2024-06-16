@@ -19,4 +19,4 @@ A check will be performed to verify that `gh` has been installed:
 
 ## License
 
-The **zsh-gh** plugin is released under the [MIT License 2.0](https://github.com/marcelohmdias/zsh-gh/blob/main/LICENSE) unless explicitly mentioned in the file header.
+The **zsh-gh** plugin is released under the [MIT License](https://github.com/marcelohmdias/zsh-gh/blob/main/LICENSE) unless explicitly mentioned in the file header.
