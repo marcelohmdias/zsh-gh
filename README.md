@@ -15,7 +15,7 @@ plug "marcelohmdias/zsh-gh"
 
 A check will be performed to verify that `gh` has been installed:
 
-- [`gh`](https://cli.github.com/) - Installer for the Rust programming language
+- [`gh`](https://cli.github.com/) - Installer for the Github CLI
 
 ## License
 
