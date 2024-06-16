@@ -1,10 +1,10 @@
 # zsh-gh
 
-A zsh plugin for Gh, the Github command line tool
+A zsh plugin for Gh, the Github command line tool.
 
 ## Install
 
-Using the [:zap: Zap](https://www.zapzsh.org/) minimal zsh plugin manager, add the following to your `.zshrc`
+Using the [:zap: Zap](https://www.zapzsh.org/) minimal zsh plugin manager, add the following to your `.zshrc`.
 
 ```sh
 # Install plugin
